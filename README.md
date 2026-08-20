@@ -1,5 +1,5 @@
 # apcsa-portfolio
-I am Julian Williams
+## I am Julian Williams
 
 I’m taking AP CSA at Ms. Berman’s recommendation because I’ve been coding through extracurriculars and personal projects for a long time, but I’ve never taken an official computer science course.
 
